@@ -1,6 +1,6 @@
 # Flood de Mensagens de WhatsApp (DoS)
 
-São alguns scripts de filems (Interstellar, Sherek e Bee Movie) para floodar aqueles contatos chatos e persistentes que insistem em te enviar spams ou tentar te aplicar um golpe. 
+São alguns scripts de filems (Interstellar, Shrek e Bee Movie) para floodar aqueles contatos chatos e persistentes que insistem em te enviar spams ou tentar te aplicar um golpe. 
 
 ## Como fazer:
 - Escolha o script: Escolha o filme que quer jogar para esse ser; Copie o conteúdo RAW dele. 
